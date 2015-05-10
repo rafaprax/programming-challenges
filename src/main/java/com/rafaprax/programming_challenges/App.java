@@ -1,13 +1,9 @@
-package com.rafaprax.programming-challenges;
+package com.rafaprax.programming_challenges;
 
-/**
- * Hello world!
- *
- */
-public class App 
-{
-    public static void main( String[] args )
-    {
-        System.out.println( "Hello World!" );
-    }
+public class App {
+
+	public static void main(String[] args) {
+
+	}
+	
 }
