@@ -1,3 +1,3 @@
-# programming-challenges
+# Programming Challenges
 
-This project is a collection of solved programming challenges. 
+This repository is a collection of solved programming challenges. 
